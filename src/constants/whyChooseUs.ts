@@ -1,5 +1,3 @@
-import type { ReactNode } from "react";
-
 export interface Advantage {
   iconName: string; // references icon component key
   title: string;
